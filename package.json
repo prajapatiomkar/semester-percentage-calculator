@@ -1,0 +1,17 @@
+{
+  "name": "project-percentage-calculator",
+  "version": "1.0.0",
+  "description": "building percentage calculator app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prajapati omkar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
